@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is ACAB-432D
+
+ Directory of E:\Git Test
+
+03/14/2019  04:13 PM    <DIR>          .
+03/14/2019  04:13 PM    <DIR>          ..
+03/14/2019  04:13 PM                 0 vctw.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  168,851,537,920 bytes free
